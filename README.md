@@ -10,7 +10,7 @@ Read about [Jekyll](https://jekyllrb.com/) here.
 
 # Contributing
 
-You can find the guide about contributing and the rules [here](https://sudc.maidcafe.me/contributing/sudc-contribution-guidelines)
+You can find the guide about contributing and the rules [here](https://sudc.maidcafe.me/contributing/intro-to-contributing-in-sudc/)
 
 # Disclaimer
 
