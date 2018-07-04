@@ -1,0 +1,84 @@
+# ----
+# Site
+
+title: Sayonika Unified Documentation Center
+url: ""
+baseurl: ""
+google_analytics_key:
+disqus_shortname:
+newsletter_action:
+
+# Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
+logo: /siteicon.png
+description: The universal knowledge base for DDLC Modding and Sayonika.
+author:
+  name: The Sayonika Project Authors
+  email: monika@headbow.stream
+  twitter: ClarityMoe
+social:
+  name: SUDC
+  links:
+    - https://github.com/Sayo-nika/docs
+
+# -----
+# Build
+
+timezone: Asia/Tokyo
+
+permalink: /:categories/:title/
+
+plugins:
+  - jekyll-extract-element
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-feed
+  - jekyll-archives
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - LICENCE
+
+collections:
+  sets:
+
+
+jekyll-archives:
+  enabled: ['categories']
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "default"
+  -
+    scope:
+      type: "posts"
+    values:
+      layout: "post"
+      comments: true
+  -
+    scope:
+      type: "sets"
+    values:
+      _hide_content: true
+  -
+    scope:
+      path: "index.html"
+    values:
+      body_class: "show_hero_search"
+
+# -----------
+# CloudCannon
+
+social_icons:
+  - Pinterest
+  - Twitter
+  - Email
+
+types:
+  - Document
+
+_comments:
