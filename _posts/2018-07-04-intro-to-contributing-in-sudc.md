@@ -1,7 +1,7 @@
 ---
 date: 2018-07-04
 title: Intro to Contributing in Sayonika Unified Documentation Center
-description: A simple guide to let people know how to contribute to the SUDC
+description: A simple guide to let people know how to contribute to the SUDC.
 categories:
   - contributing
 resources:
@@ -18,7 +18,7 @@ then keep on reading on our 3-step journey~!
 
 ## Reading the Contribution Guidelines
 
-The first step is reading our Contribution Guidelines set in our [repository](). This will familiarize you what document layout
+The first step is reading our Contribution Guidelines set in our [repository](/contributing/sudc-contribution-guidelines/). This will familiarize you what document layout
 we accept.
 
 Usually, we will inform you if we also find some convention violations before merging since we enforce Pull Request Reviews.
@@ -33,7 +33,7 @@ Keep in mind there's a format that we follow, as imposed on the guidelines, so m
 ## Submitting it upstream
 
 After all the painstaking toils of your hard work, it has to pay off by appearing Sayonika's public frontend. And to do that -
-you must submit a [Pull Request]().
+you must submit a [Pull Request](https://yangsu.github.io/pull-request-tutorial/).
 
 A representative of Sayonika will review your Pull Request and if they think it's too awesome it needs to be there, they'll merge it!
 How cool is that?
@@ -45,7 +45,7 @@ After your first PR gets merged, you should be encouraged to contribute more, si
 
 And of course, don't forget to celebrate if your PR got merged!
 
-And of course, if you wanna contribute to other fields of Sayonika, you can always contribute to the following:
+If you wanna contribute to other fields of Sayonika, you can always contribute to the following:
 
 - [The Main Project Repository](https://github.com/Sayo-nika/Sayonika)
 - [The Main Project Server Repository](https://github.com/Sayo-nika/server)

@@ -1,7 +1,7 @@
 ---
 date: 2018-07-04
 title: Sayonika Unified Documentation Center Contribution Guidelines
-description: The Contribution Guide explained in a human friendly manner
+description: The Contribution Guide explained in a human friendly manner.
 categories:
   - contributing
 resources:
@@ -24,7 +24,7 @@ you should submit a set in `_sets` and set it on the Front Matter.
 
 This is the most important part of the document you're making since this is what Jekyll will parse and would allow us to have a structured database.
 
-your Front Matter should look like this:
+Your Front Matter should look like this:
 
 ```md
 ---
@@ -96,7 +96,7 @@ Your article name needs to be lowercase and exactly what you wrote in the title 
 
 ### `_sets` set definitions
 
-Follow the format set in `_sets`. Your standard set definition would look like :
+Follow the format set in `_sets`. Your standard set definition would look like:
 
 ```md
 ---
