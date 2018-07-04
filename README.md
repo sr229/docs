@@ -10,11 +10,7 @@ Read about [Jekyll](https://jekyllrb.com/) here.
 
 # Contributing
 
-We do all the stuff in `_docs` so if you wanna add some new knowledge in docs, yu're free to do so! Keep in mind of these though:
-
-- We use American English, not British English. 
-- Use neutral wording - do not use possessive or first-person phrasings.
-- Use clear and concise words. This is a documentation site, not your blog.
+You can find the guide about contributing and the rules [here](https://sudc.maidcafe.me/contributing/)
 
 # Disclaimer
 
