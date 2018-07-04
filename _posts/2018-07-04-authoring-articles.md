@@ -57,9 +57,9 @@ You should see your changes live on http://127.0.0.1:8080.
 And finally, commit this and push it to GitHub:
 
 ```sh
-$ git add . # to include your changes
-$ git commit -am "Your comment here" #This commits and adds a message
-$ git push # this pushes your changes to GitHub
+ $ git add . # to include your changes
+ $ git commit -am "Your comment here" # This commits and adds a message
+ $ git push # this pushes your changes to GitHub
 ```
 
 Looking dandy there? Then you're ready to propose this so it gets merged on the public website, explained [here](/contributing/intro-to-contributing-in-sudc/#submitting-it-upstream).
