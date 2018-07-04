@@ -69,7 +69,7 @@ Today I will show you how to delete Monika.
 
 **This is proper**
 ```md
-This guide will guide you how to delete Monika.
+This guide will guide you through the steps to delete Monika's character file.
 ```
 
 ## HTML usage
