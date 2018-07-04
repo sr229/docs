@@ -92,7 +92,7 @@ Do not add whitespacing on title. Hence, use a dash (`-`) to designate a space.
 ```
 2018-07-04-sayonika-is-cute
 ```
-Your article name needs to be lowercase and exactly what you wrote in the title filed of your Front Matter.
+Your article name needs to be lowercase and exactly what you wrote in the title field of your Front Matter.
 
 ### `_sets` set definitions
 
