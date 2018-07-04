@@ -26,7 +26,7 @@ Usually, we will inform you if we also find some convention violations before me
 ## Composing your contribution
 
 After reading thoroughly the guidelines. It should be enough for you to understand the things we accept. If you're ready,
-You can now start [authoring]() your desired entry to add.
+You can now start [authoring](/contributing/authoring-articles/) your desired entry to add.
 
 Keep in mind there's a format that we follow, as imposed on the guidelines, so make sure you follow that strictly!
 
