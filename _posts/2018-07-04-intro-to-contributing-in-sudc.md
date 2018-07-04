@@ -50,4 +50,4 @@ If you wanna contribute to other fields of Sayonika, you can always contribute t
 - [The Main Project Repository](https://github.com/Sayo-nika/Sayonika)
 - [The Main Project Server Repository](https://github.com/Sayo-nika/server)
 
-So you in, fam? Go ahead, fork the docs repository and start contributing away!
+So you in, fam? Go ahead, ~~stab the docs with a fork~~ fork the docs repository and start contributing away!
