@@ -36,6 +36,18 @@ icon, then finally, after completing the forking process, you should do the foll
 ```sh
 $ git clone https://<username>:<password>@github.com/<username>/docs
 ```
+## Where to edit/place the files.
+
+Documentation goes to `_posts` folder. This is where everything is placed neatly there in a common manner.
+
+For your article to pop out, you'll need to name it like this:
+
+```sh
+2018-07-08-intro-to-your-reality.md
+```
+That way, your site appears on the website with no gotchas.
+
+You can read more [here](/contributing/sudc-contribution-guidelines/) on the best way to write your article.
 
 ## Testing and pushing your changes
 
