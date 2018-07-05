@@ -36,7 +36,7 @@ icon, then finally, after completing the forking process, you should do the foll
 ```sh
 $ git clone https://<username>:<password>@github.com/<username>/docs
 ```
-## Where to edit/place the files.
+## Where to edit/place the files
 
 Documentation goes to `_posts` folder. This is where everything is placed neatly there in a common manner.
 
