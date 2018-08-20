@@ -15,11 +15,11 @@ stated therein in this document.
 
 ## Preamble
 
-The Sayonika Mod Entry Conduct is a manifest document that guides you, the "modder", and us "The Sayonika Project Authors", on the acceptable terms in the platform based on the accepted ethics in DDLC modding as practiced by the community, augmented by a platform-binding document. By reading this, you are made aware that your mod complies with the terms, and the guidelines constitiuted therein.
+The Sayonika Mod Entry Conduct is a manifest document that guides you, the "modder", and us "The Sayonika Project Authors", on the acceptable terms in the platform based on the accepted ethics in DDLC modding as practiced by the community, augmented by a platform-binding document. By reading this, you are made aware that your mod must comply with the terms, and the guidelines constitiuted therein.
 
 ## Definitions
 
-- "Author", or "Publisher", may refer to you, the creator of the mod.
+- "Author" may refer to you, the creator of the mod.
 - "Mod" may refer to your user-created content as a Doki Doki Literature Club extension or a "modification".
 - "Assets" may refer to any media used in your Doki Doki Literature Club extension, or modification. It is not limited but to foley tracks, sprites, SFX, background music, and the like.
 - "Third-party" may refer to a individual, or any organization that has shown interest to your Doki Doki Literature Club extension, or modification.
