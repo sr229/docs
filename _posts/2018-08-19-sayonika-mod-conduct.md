@@ -54,7 +54,7 @@ In no event and under no legal theory, whether in tort (including negligence), c
 
 ## Appendix
 
-The Sayonika Project Authors reserves the right to revise or revoke any terms in this document.
+We, The Sayonika Project Authors, reserve the right to revise or revoke any terms in this document.
 No third party is allowed to revoke or revise any terms in this document. 
 
 If some terms here concerns you, please consult us at `hello@sayonika.moe` for questions you have in mind.
