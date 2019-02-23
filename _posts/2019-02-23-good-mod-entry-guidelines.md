@@ -1,4 +1,12 @@
-# Good Mod Entry Guidelines
+---
+date: 2018-07-04
+title: Good Mod Entry Guidelines
+description: The guidelines is the suggested format for your mod. These are designed to make your mods unique, creative, and non-discriminative.
+categories:
+  - guidelines
+set: guidelines
+set_order: 2
+---
 
 > Keep in mind this is under heavy modification as time goes by. Any content of this is not final.
 
